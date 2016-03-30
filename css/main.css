@@ -96,11 +96,12 @@ body hr{
   position:relative;
   left: 10px;
 }
-.top-section .cta{
+.topsection .cta{
   width: 400px;
   height: 300px;
-  float: left;}
-.top-section .cta .search-button {
+  float: left;
+}
+.topsection .cta .search-button {
   width:200px;
   height:35px;
   background-color:#20609a;
@@ -110,7 +111,7 @@ body hr{
   line-height:36px;
   padding:5px;
 }
-.top-section .cta .arrow {
+.topsection .cta .arrow {
   width:0;
   height:0;
   border-bottom:20px solid transparent;
@@ -123,7 +124,7 @@ body hr{
   line-height: 0;
   position:relative;
   bottom: 5px; }
-.top-section .yellow{
+.topsection .yellow{
   color:#fdbc25;
 }
 .secondsection{
@@ -224,6 +225,7 @@ body hr{
   top: 20px;
 }
 .searchicon {
+  color:white;
   position:absolute;
   left:840px;
   top:20px;
